@@ -696,6 +696,9 @@ ul {
         -ms-flex-direction: column;
             flex-direction: column;
     margin-top: 20px;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
 
   .pic-container {
@@ -708,9 +711,6 @@ ul {
     margin-bottom: 20px;
     margin-right: 0px;
     margin-left: 0px;
-    -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
   }
 
   .name-and-description {
