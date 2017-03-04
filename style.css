@@ -776,4 +776,8 @@ ul {
   .activity-places ul {
     width: 100%;
   }
+
+  .content-strip-contacts {
+    padding-top: 20px;
+  }
 }
